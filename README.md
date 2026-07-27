@@ -1,5 +1,7 @@
 Titanic Survival Prediction
-Chapter 1: Introduction & Business Understanding
+
+Introduction & Business Understanding
+
 "A data scientist doesn't just analyze data—they ask questions inspired by the world around them."
 
 Project Motivation
